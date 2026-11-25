@@ -25,7 +25,7 @@ cp -r video-skills/* ~/workspace/custom-skills/
 - **remotion** + **remotion-best-practices** — programmatic video with Remotion
 - **chase-animate** — procedural animation in any style
 - **claude-animation-base** — hand-painted cartoon style from code
-- **lemo-opuscar** — 99 film styles in code
+- **lemo-opuscar** — 99 film styles in code (skill instructions only; the engine itself is the open-source project https://github.com/lemomo-ai/lemo-opuscar, clone it separately)
 - **what-if-animation** — code-drawn What If episodes
 - **stick-figure-video**, **stickman-story-remotion**, **stickman-video-director** — stickman video workflows
 - **motion-design**, **motion-prompt** — motion direction and motion library
